@@ -5,6 +5,7 @@
 </p>
 
 ---
+
 <h2 align="center">🎓 University Information</h2>
 
 <p align="center">
@@ -13,43 +14,7 @@
   <img src="https://img.shields.io/badge/Status-1st_Year-green?style=for-the-badge" />
 </p>
 
-<p align="center">
-  🎓 Tashkent Institute of Irrigation and Agricultural Mechanization Engineers  
-</p>
-
-<p align="center">
-  🚀 Building future skills in AI, Robotics & Software Engineering
-</p>
 ---
-## 🎓
-
-<p align="center">
-  <img src="https://img.shields.io/badge/University-TIIAME_NRU-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Major-Artificial_Intelligence-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Year-1st_Year-green?style=for-the-badge" />
-</p>
----
-## 🎓 Academic Information
-
-<p align="center">
-
-### 📘 1st Semester — Python Programming  
-👨‍🏫 Kodirov E. S | Jalelov K. M  
-💻 Fundamentals of Programming in Python  
-
----
-
-### 📗 2nd Semester — Data Structures & Algorithms  
-👨‍🏫 XOITQULOV A. A | MUXIYATDINOV J. K  
-🧠 Algorithms, Data Structures, Problem Solving  
-
----
-
-### 📙 Programming Course  
-👨‍🏫 IBROXIMOV B. A | USNATDINOVA G. A  
-⚙️ Software Development Fundamentals  
-
-</p>
 ---
 
 ## 👨‍💻 About Me
@@ -126,5 +91,31 @@
 
 ---
 
+
 ## ⭐ Motto
 > "Code every day, build your future, improve endlessly 🚀"
+>
+
+---
+### 🌐 1st Semester — Python Programming
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2500&color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Programming+Fundamentals+🐍;Problem+Solving+Logic+💡;Coding+Basics+💻" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Instructor-Kodirov_E.S-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Instructor-Jalelov_K.M-blue?style=for-the-badge" /> </p>
+---
+
+### 📗 2nd Semester — Data Structures & Algorithms
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2500&color=FFB000&center=true&vCenter=true&width=500&lines=Data+Structures+📦;Algorithms+🧠;Problem+Solving+Thinking+⚙️" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Instructor-XOITQULOV_A.A-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Instructor-MUXIYATDINOV_J.K-green?style=for-the-badge" /> </p>
+---
+
+### 📙 Programming Course
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2500&color=FF4B4B&center=true&vCenter=true&width=500&lines=Software+Development+Fundamentals+⚙️;Clean+Code+Practice+💻;Engineering+Thinking+🧩" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Instructor-IBROXIMOV_B.A-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/Instructor-USNATDINOVA_G.A-red?style=for-the-badge" /> </p>
+---
+
+## 📊 Learning Performance Dashboard
+
+```mermaid
+graph TD
+A[Kodirov E.S] --> A1[85]
+B[Jalelov K.M] --> B1[90]
+C[Xoitqulov A.A] --> C1[88]
+D[Muxiyatinov J.K] --> D1[87]
+E[Ibroximov B.A] --> E1[92]
+F[Usnatdinova G.A] --> F1[89]
