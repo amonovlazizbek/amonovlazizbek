@@ -25,13 +25,27 @@
 </p>
 
 ---
+## 🚀 Featured Projects
 
-## 🚀 Projects
+### 💻 Calculator Universe
+> Multi-language smart calculator system  
+🌐 Web | 🐍 Python | ⚙️ C++ | ☕ Java  
+🔥 Built for logic practice & portfolio showcase  
+📌 Status: ✅ Completed | 🚀 Ready for deployment
 
-- 📌 Calculator (Web + Python + C++ + Java)
-- 📌 Portfolio Website (coming soon)
-- 📌 Robotics Project (in progress)
+---
 
+### 🌐 Portfolio Website
+> My personal developer identity on the web  
+🎨 Modern UI + Responsive design  
+📌 Status: 🚧 Building | 🎯 Launch soon
+
+---
+
+### 🤖 Robotics Engineering Project
+> Real-world automation & control system  
+🧠 Combining programming + engineering  
+📌 Status: 🚀 Active Development | 🔬 Research phase
 ---
 
 ## 📊 GitHub Stats
