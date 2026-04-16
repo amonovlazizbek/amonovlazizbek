@@ -5,6 +5,14 @@
 </p>
 
 ---
+## 🎓
+
+<p align="center">
+  <img src="https://img.shields.io/badge/University-TIIAME_NRU-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Major-Artificial_Intelligence-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Year-1st_Year-green?style=for-the-badge" />
+</p>
+---
 
 ## 👨‍💻 About Me
 🚀 Passionate Software Engineer in the making  
