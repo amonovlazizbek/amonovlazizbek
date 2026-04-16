@@ -2,7 +2,7 @@ name: Update Countdown
 
 on:
   schedule:
-    - cron: "0 * * * *"  # har soatda yangilanadi
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -21,15 +21,19 @@ jobs:
       - name: Run countdown script
         run: python .github/scripts/countdown.py
 
-      - name: Update README
+      - name: Update README safely
         run: |
-          CONTENT=$(cat countdown.txt)
-          sed -i "/⏱ Time Remaining:/c\⏱ Time Remaining: $CONTENT" README.md
+          if grep -q "⏱ Time Remaining" README.md; then
+            CONTENT=$(cat countdown.txt)
+            sed -i "s|⏱ Time Remaining.*|$CONTENT|g" README.md
+          else
+            echo "Countdown line not found, skipping..."
+          fi
 
       - name: Commit changes
         run: |
-          git config --global user.name "amonovlazizbek"
-          git config --global user.email "amonovlazizbek9@gmail.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions@github.com"
           git add README.md
           git commit -m "update countdown" || exit 0
           git push
