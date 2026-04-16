@@ -1,7 +1,7 @@
-from datetime import datetime
+from datetime import datetime, timezone
 
 target = datetime(2029, 5, 25, 0, 0, 0)
-now = datetime.utcnow()
+now = datetime.now(timezone.utc)
 
 diff = target - now
 
