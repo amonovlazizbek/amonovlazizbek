@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=FF00FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile+🚀;I+love+coding+and+robotics+🤖;Python+%7C+Java+%7C+C%2B%2B+💻;Turning+ideas+into+reality+⚙️;Let's+build+something+amazing+🔥" />
+</p>
 <h1 align="center">👋 Hi, I'm Lazizbek</h1>
 
 <h3 align="center">🚀 Software Developer | 💻 Python & Web Enthusiast | ⚙️ Robotics Student</h3>
