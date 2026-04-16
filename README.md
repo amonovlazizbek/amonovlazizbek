@@ -1,23 +1,17 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=FF00FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile+🚀;I+love+coding+and+robotics+🤖;Python+%7C+Java+%7C+C%2B%2B+💻;Turning+ideas+into+reality+⚙️;Let's+build+something+amazing+🔥" />
-</p>
-<h1 align="center">👋 Hi, I'm Lazizbek</h1>
-
-<h3 align="center">🚀 Software Developer | 💻 Python & Web Enthusiast | ⚙️ Robotics Student</h3>
-
----
+# 👋 Hi, I'm Lazizbek
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+love+Programming+💻;I+build+Web+and+Robotics+Projects+⚙️;Always+learning+new+things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineer+in+Progress+💻;Python+%7C+Web+%7C+Robotics+⚙️;Building+Real-World+Projects+🚀;Always+Learning+and+Improving+📈" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Student passionate about programming & robotics  
-- 💡 I love solving real-world problems using code  
-- 🌍 Goal: Become professional software engineer  
-- 📈 Always improving my skills every day  
+🚀 Passionate Software Engineer in the making  
+💻 I build real-world projects using code  
+⚙️ Interested in Robotics, Automation & AI systems  
+🌍 Goal: Become global-level developer  
+📈 Learning every day, improving every step  
 
 ---
 
@@ -28,27 +22,28 @@
 </p>
 
 ---
+
 ## 🚀 Featured Projects
 
-### 💻 Calculator Universe
-> Multi-language smart calculator system  
+💻 **Calculator Universe**  
 🌐 Web | 🐍 Python | ⚙️ C++ | ☕ Java  
-🔥 Built for logic practice & portfolio showcase  
-📌 Status: ✅ Completed | 🚀 Ready for deployment
+🔥 Multi-language smart calculator system  
+📌 Status: ✅ Completed
 
 ---
 
-### 🌐 Portfolio Website
-> My personal developer identity on the web  
-🎨 Modern UI + Responsive design  
-📌 Status: 🚧 Building | 🎯 Launch soon
+🌐 **Portfolio Website**  
+🎨 Personal CV website  
+⚡ HTML | CSS | JavaScript  
+📌 Status: 🚧 In Progress
 
 ---
 
-### 🤖 Robotics Engineering Project
-> Real-world automation & control system  
-🧠 Combining programming + engineering  
-📌 Status: 🚀 Active Development | 🔬 Research phase
+🤖 **Robotics Project**  
+⚙️ Engineering + Programming system  
+🧠 Real-world automation focus  
+📌 Status: 🚀 Active Development
+
 ---
 
 ## 📊 GitHub Stats
@@ -61,28 +56,29 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amonovlazizbek&theme=tokyonight" />
 </p>
 
----
-
-## 🌐 Connect With Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amonovlazizbek&layout=compact&theme=tokyonight" />
+</p>
 
 <p align="center">
-  <a href="mailto:amonovlazizbek9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/amonovlazizbek">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amonovlazizbek&theme=tokyo-night" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amonovlazizbek&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amonovlazizbek&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🌐 Contact Me
+📧 Email: amonovlazizbek9@gmail.com  
+💻 GitHub: https://github.com/amonovlazizbek  
 
 ---
 
 ## ⭐ Motto
-<p align="center">
-  <b>"Code every day, build your future 🚀"</b>
-</p>
-
----
-
-<p align="center">
-  🔥 Thanks for visiting my profile 🔥
-</p>
+> "Code every day, build your future, improve endlessly 🚀"
