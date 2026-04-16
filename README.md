@@ -5,6 +5,22 @@
 </p>
 
 ---
+<h2 align="center">🎓 University Information</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TIIAME_NRU-University-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Department-Artificial_Intelligence-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-1st_Year-green?style=for-the-badge" />
+</p>
+
+<p align="center">
+  🎓 Tashkent Institute of Irrigation and Agricultural Mechanization Engineers  
+</p>
+
+<p align="center">
+  🚀 Building future skills in AI, Robotics & Software Engineering
+</p>
+---
 ## 🎓
 
 <p align="center">
