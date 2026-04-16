@@ -21,19 +21,32 @@ jobs:
       - name: Run countdown script
         run: python .github/scripts/countdown.py
 
-      - name: Update README safely
+      - name: Update README safely (FIXED)
         run: |
-          if grep -q "⏱ Time Remaining" README.md; then
-            CONTENT=$(cat countdown.txt)
-            sed -i "s|⏱ Time Remaining.*|$CONTENT|g" README.md
-          else
-            echo "Countdown line not found, skipping..."
-          fi
+          python - << 'EOF'
+          import re
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          with open("countdown.txt", "r", encoding="utf-8") as f:
+              countdown = f.read()
+
+          new_readme = re.sub(
+              r"⏱ Time Remaining:.*",
+              countdown.replace("\\", "\\\\"),
+              readme,
+              flags=re.S
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new_readme)
+          EOF
 
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions@github.com"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "update countdown" || exit 0
           git push
