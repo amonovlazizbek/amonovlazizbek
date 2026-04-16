@@ -13,6 +13,28 @@
   <img src="https://img.shields.io/badge/Year-1st_Year-green?style=for-the-badge" />
 </p>
 ---
+## 🎓 Academic Information
+
+<p align="center">
+
+### 📘 1st Semester — Python Programming  
+👨‍🏫 Kodirov E. S | Jalelov K. M  
+💻 Fundamentals of Programming in Python  
+
+---
+
+### 📗 2nd Semester — Data Structures & Algorithms  
+👨‍🏫 XOITQULOV A. A | MUXIYATDINOV J. K  
+🧠 Algorithms, Data Structures, Problem Solving  
+
+---
+
+### 📙 Programming Course  
+👨‍🏫 IBROXIMOV B. A | USNATDINOVA G. A  
+⚙️ Software Development Fundamentals  
+
+</p>
+---
 
 ## 👨‍💻 About Me
 🚀 Passionate Software Engineer in the making  
