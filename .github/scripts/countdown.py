@@ -18,4 +18,4 @@ output = f"""
 """
 
 with open("countdown.txt", "w", encoding="utf-8") as f:
-    f.write(output)
+    f.write(output.strip())
